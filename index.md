@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Welcome
 ---
@@ -12,5 +9,6 @@ My portfolio is my way of showing you all of the things I've accomplished during
 
 # Career Objective #
 
-I will be joining Google in August 2019. I plan on using my time there to learn from some of the best engineers in the world, and grow as a software developer.
+I enjoy creating tools and libraries, and as such I will be joining Google Cloud Platform in August 2019. I look forward to helping the team at Google make excellent API's and tools for developers to accomplish great things.
 
+In the future I'm interested in delving into compilers / lanugages as a whole. I'm interested in the ways a language can influence how a developer thinks. Programmers follow the path of least resistence, and I'm excited about the ways a programming language can influence that resistence. By making good choices the easiest choice, a language is able to guide a programmer into making faster, safer software.
