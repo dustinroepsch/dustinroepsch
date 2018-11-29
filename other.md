@@ -13,7 +13,9 @@ I have accepted a job at Google, so my most immediate goal is to graduate. After
 
 General Electives at Iowa State force you to take a break from the Math and Science aspects of engineering, and instead focus on becoming a more well rounded individual.
 
-For Example, while at Iowa State I took a political science course. During this course, I learned that even with an extremely accurate machine that could determine whether or not a person is a terrorist with a high degree of accuracy, we would still be very uncertain that the person was a terrorist if the machine's alarm went off. This is because the overwhelming majority of people are not terrorists, and since the odds of being a terrorist are so incredibly low, our accurate machine going off still isn't a sure sign that the person is a terrorist due to bayes law.
+For Example, while at Iowa State I took a political science course (Pol S 315). During this course, I learned that even with an extremely accurate machine that could determine whether or not a person is a terrorist with a high degree of accuracy, we would still be very uncertain that the person was a terrorist if the machine's alarm went off. This is because the overwhelming majority of people are not terrorists, and since the odds of being a terrorist are so incredibly low, our accurate machine going off still isn't a sure sign that the person is a terrorist due to bayes law.
+
+I also took women's studies 325 (Portrayals of Gender in the Media) this class was very different than other classes I've taken at Iowa State, because it spent a lot of time reflecting on video and audio. In my engineering classes we spend a lot of time learning how to design things or the physical properties of the world, so it was nice to have a class that was focused on reviewing less concrete material.
 
 This result shows how much size and scale matter when thinking about a problem. It seems counter intuitive that an accurate machine would have a high rate of false positives, which is why it's important to look at data analytically when making engineering decisions.
 
